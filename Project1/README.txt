@@ -1,0 +1,3 @@
+//Simran Gidwani ReadME
+
+To get the project running, just normally compile and run the file with no other command line arguments. When it runs, it will first output a sentence asking what file you want to run with the models. You can enter any of the training files. Once you enter that, it will run the unigram, bigram, and trigram unsmoothed and smoothed models for that training file and compare it to the test file. When it is done it will output the data to different files with extentions for that specific file. The program will also print the number of unknown characters in each of the language models and the perplexity. If you run again you would just enter a different training file. 
